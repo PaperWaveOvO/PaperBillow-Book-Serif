@@ -6,7 +6,7 @@
 
 - <strong>项目发起人：</strong>PaperWaveOvO
 
-- <strong>其他核心开发成员：</strong>PaperWaveOvO、[YaKeLi](https://github.com/YakeLi)、cod'dte
+- <strong>其他核心开发成员：</strong>[YaKeLi](https://github.com/YakeLi)、cod'dte
 
 > 本项目目前由我们 3 位字体爱好者共同打磨。由于项目发起人水平有限，作品尚显稚嫩，恳请大家多多包涵与指教。
 
@@ -24,7 +24,7 @@ An open-source modern Book Serif typeface in its early stages. Designed to provi
 
 - <strong>Project founder:</strong> PaperWaveOvO
 
-- <strong>Other core developers:</strong> PaperWaveOvO, [YaKeLi](https://github.com/YakeLi), cod'dte
+- <strong>Other core developers:</strong> [YaKeLi](https://github.com/YakeLi), cod'dte
 
 > This project is currently being crafted by the three of us as font enthusiasts. As the project founder is still learning, the work may appear amateurish. We sincerely appreciate your patience and constructive feedback.
 
